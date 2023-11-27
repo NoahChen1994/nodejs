@@ -1,4 +1,4 @@
-const a = 9;
+const a = 11;
 if(a<10){
     console.log("small num");
 }else{
